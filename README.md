@@ -4,7 +4,8 @@ Autonomous analysis of 1H anti-phase CEST experiments using DNNs
 This code is for determining the chemical shifts of exchanging states from CEST experiments using DNN
 To use the code, the file containing the weights for the trained network must be
 downloaded. This is available [here](https://www.dropbox.com/s/jf4aoz3dfomxo62/models.zip?dl=0).
-Once downloaded place the weights in a directory and point to that directory when running the programme
+Once downloaded place the weights in a directory and point to that directory when running the programme.
+The code for creating untrained models is contained in the models folder. 
 
 The script can then be run as follows:
 
